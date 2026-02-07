@@ -1,3 +1,15 @@
+Freesm Launcher Maple 2.0.0, now available
+https://github.com/FreesmTeam/FreesmLauncher/releases/tag/2.0.0/
+2026-02-05T00:00:00Z
+
+<p>Hello everynyan.</p>
+<p>Freesm Launcher Maple 2.0.0 is here!</p>
+<p>This release upstreams Freesm to Prism Launcher 10.0.2, includes multiple Nix fixes, and improves custom authentication.</p>
+<p>We also added support for multi-profile custom accounts.</p>
+<p>Full Changelog: <a href="https://github.com/FreesmTeam/FreesmLauncher/compare/sequoia-1.4.4...2.0.0">https://github.com/FreesmTeam/FreesmLauncher/compare/sequoia-1.4.4...2.0.0</a></p> <p>You can <a href="https://freesmlauncher.org/downloads">grab the latest download here</a> for your respective platform.</p>
+
+---
+
 Freesm Launcher Release Sequoia 1.4.0, now available
 https://github.com/FreesmTeam/FreesmLauncher/releases/tag/sequoia-1.4.0/
 2025-12-24T00:00:00Z
