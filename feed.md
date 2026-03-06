@@ -1,3 +1,15 @@
+Freesm Launcher Maple 2.1.0, now available
+
+https://github.com/FreesmTeam/FreesmLauncher/releases/tag/2.1.0/
+2026-03-06T00:00:00Z
+
+<p>Hello everynyan.</p>
+<p>Freesm Launcher Maple 2.1.0 is here!</p>
+<p>This release brings support for FTB modpacks, adds the ability to fetch the official CurseForge API key for downloading mods, restores the catpack cover scaling option, introduces migration from Prism Launcher, and enables system proxy support by default.</p>
+<p>Full Changelog: <a href="https://github.com/FreesmTeam/FreesmLauncher/compare/2.0.0...2.1.0">https://github.com/FreesmTeam/FreesmLauncher/compare/2.0.0...2.1.0</a></p> <p>You can <a href="https://freesmlauncher.org/downloads">grab the latest download here</a> for your respective platform.</p>
+
+---
+
 Freesm Launcher Maple 2.0.0, now available
 https://github.com/FreesmTeam/FreesmLauncher/releases/tag/2.0.0/
 2026-02-05T00:00:00Z
