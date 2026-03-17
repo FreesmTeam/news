@@ -1,5 +1,17 @@
 Freesm Launcher Maple 2.1.0, now available
 
+https://github.com/FreesmTeam/FreesmLauncher/releases/tag/2.1.1/
+2026-03-17T00:00:00Z
+
+<p>Hello everynyan.</p>
+<p>Freesm Launcher Maple 2.1.1 is here!</p>
+<p>This release fixes authentication for unmojang/drasl servers, restores the screenshot copy feature, and resolves several UI issues.</p>
+<p>Full Changelog: <a href="https://github.com/FreesmTeam/FreesmLauncher/compare/2.1.0...2.1.1">https://github.com/FreesmTeam/FreesmLauncher/compare/2.1.0...2.1.1</a></p> <p>You can <a href="https://freesmlauncher.org/downloads">grab the latest download here</a> for your respective platform.</p>
+
+---
+
+Freesm Launcher Maple 2.1.0, now available
+
 https://github.com/FreesmTeam/FreesmLauncher/releases/tag/2.1.0/
 2026-03-06T00:00:00Z
 
